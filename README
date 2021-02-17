@@ -1,0 +1,1 @@
+This repository is a test site for creating a pipeline in Jenkins that will monitor a GitHub repository, check out, and test repository versions.
